@@ -1,0 +1,4 @@
+from graph_product import Solution 
+
+sol = Solution()
+sol.calcEquation(1,2,3)
